@@ -1,7 +1,7 @@
 {
   "name": "sharingsetting",
   "version": "2.0.0",
-  "description": "App Sharing Setting",
+  "description": "App Skeleton",
   "main": "./src/app.js",
   "repository": "https://github.com/HISPColombia/Mumm-Ra-DHIS2.git",
   "author": "Helder Castrillon",
