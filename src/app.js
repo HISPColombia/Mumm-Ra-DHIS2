@@ -9,11 +9,15 @@ import log from 'loglevel';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import LoadingMask from 'd2-ui/lib/loading-mask/LoadingMask.component';
 
+//style app
+ import './scss/app.scss'
+
 //DHIS
 import d2 from 'd2/lib/d2';
 //import dhis2 from 'd2-ui/lib/header-bar/dhis2';
 import appTheme from './theme';
 
+//Components
 import Front from './Front'
 
 /*
